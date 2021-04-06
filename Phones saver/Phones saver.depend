@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1617704760 source:c:\users\user\desktop\phones saver\main.cpp
+	"Phone.h"
+
+1617705247 c:\users\user\desktop\phones saver\phone.h
+	<iostream>
+
+1617711019 source:c:\users\user\desktop\phones saver\phone.cpp
+	"Phone.h"
+
