@@ -7,7 +7,7 @@
 * A console system to store and also enable users to search stored phone numbers.
 *
 * Date: 06/04/2021
-* Copyright Praise Codes 2021
+* Copyright (c) 2021 Praise Codes
 * Feel free to check it out also copy and paste.
 */
 
